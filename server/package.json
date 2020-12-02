@@ -1,0 +1,16 @@
+{
+  "name": "Trello-clone-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:ashwamegh/t-clone.git",
+  "author": "Shashank Shekhar <shashank7200@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "apollo-server-express": "^2.19.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.11.1"
+  }
+}
